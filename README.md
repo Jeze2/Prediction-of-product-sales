@@ -2,7 +2,7 @@
 ## Summary
 - This project aims to analyze sales data and develop a regression model to predict item outlet sales based on various features. The dataset includes information such as item weight, item type, outlet size, and advertising spend, among others. By exploring the data and building a predictive model, valuable insights can be derived to support business decision-making and optimize sales strategies.
 
-## Project Objectives
+## Project Objectives 
 1. Perform exploratory data analysis to understand the characteristics and patterns within the sales dataset.
 2. Visualize relationships between different variables to identify potential correlations and trends.
 3. Develop a regression model to predict item outlet sales and evaluate its performance using appropriate metrics.
