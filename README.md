@@ -10,7 +10,9 @@
 ## Results
 ![Outlet size vs Item Outlet Sales](image.png)
 - The box plot showcases the distribution of item outlet sales based on different outlet sizes. It allows us to compare the sales performance across different outlet sizes, whether small, medium, or large. By examining the box plot, we can identify any variations in sales and potential differences in consumer behavior based on the size of the outlet.
-![Item Visibility vs Item Outlet Sales](visaul2.png)
+   
+   
+![Item Visibility vs Item Outlet Sales](image2.png)
 - The scatter plot illustrates the relationship between item visibility and item outlet sales. We can observe the dispersion of data points, representing different products. By analyzing the scatter plot, we can infer whether there is any correlation between the visibility of products and their corresponding sales.
 ## Methodology
  1. Data Preprocessing: Load the dataset, handle missing values, and perform necessary data cleaning and formatting.
